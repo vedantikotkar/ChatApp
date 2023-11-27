@@ -1,0 +1,4 @@
+create NPM  project
+create Index ,css, js file
+install dependencies express,nodemon
+frontend
